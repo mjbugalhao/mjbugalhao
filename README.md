@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjbugalhao
-- 👀 I’m interested in Azure and GCP
-- 🌱 I’m currently preparin for the AZ-303 exam
+- 👀 I’m interested in Azure, AWS and GCP
+- 🌱 I’m currently preparin for the AWS CAA exam
 - 📫 I can be reached at mario.bugalhao@gmail.com
 
 <!---
