@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjbugalhao
-- 👀 I’m interested in Azure, AWS and GCP
+- 👀 I’m interested in GCP and Python
 - 📫 I can be reached at mario.bugalhao@gmail.com
 
 <!---
